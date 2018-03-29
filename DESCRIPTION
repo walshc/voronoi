@@ -1,0 +1,17 @@
+Package: voronoi
+Version: 0.0.1
+Date: 2018-03-29
+Title: voronoi
+Description: Function to create a shapefile of the voronoi diagram of given points.
+Author: Christoph Walsh
+Maintainer: Christoph Walsh <walshcb@bu.edu>
+Depends:
+    R (>= 2.15.0),
+    deldir,
+    maptools,
+    rgdal,
+    rgeos,
+    sp,
+    raster
+License: GPL-3
+URL: https://github.com/walshc/voronoi
