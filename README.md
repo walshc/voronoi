@@ -1,5 +1,5 @@
-# polygonNeighbors
-An `R` package to find which regions each region in a shapefile is adjacent to. Outputs a `data.frame` and (optionally) the adjacency matrix and a plot of the adjacencies.
+# voronoi
+An `R` package to find which regions each region in a shapefile is adjacent to. Outputs a `data.frame` and (optionally) the adjacency matrix and a plot of the adjacencies. This is useful, for example, if you only have the centroids of various areas and not the corresponding shapefile. The voronoi diagram can serve as an approximation.
 
 ## Installation
 
